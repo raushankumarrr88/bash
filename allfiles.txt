@@ -1,0 +1,16 @@
+Mon, Jan 13, 2025  2:53:58 PM
+allfiles.txt
+arithmetic.sh*
+array.sh*
+bash.sh*
+basic.sh
+calculator.sh*
+case.sh*
+for.sh*
+function.sh*
+if_else.sh*
+key_value.sh*
+logical_operators.sh*
+name.txt
+site_status.sh*
+user_interaction.sh*
