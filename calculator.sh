@@ -1,5 +1,12 @@
 #!/bin/bash
 
+if [[ $# -eq 0 ]]
+then
+    echo "this is a Calculator"
+    echo "please provide two arg to do operation"
+    exit 1
+fi
+
 echo "this is a Calculator"
 echo "Press A for add"
 echo "Press B for Subs"
