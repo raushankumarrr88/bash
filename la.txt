@@ -1,0 +1,25 @@
+total 38
+drwxr-xr-x 1 adsi2 197611    0 Jan 16 13:45 ./
+drwxr-xr-x 1 adsi2 197611    0 Jan 15 12:02 ../
+drwxr-xr-x 1 adsi2 197611    0 Jan 15 13:55 .git/
+-rw-r--r-- 1 adsi2 197611  225 Jan 13 14:54 allfiles.txt
+-rwxr-xr-x 1 adsi2 197611  723 Jan 16 12:24 archive.sh*
+drwxr-xr-x 1 adsi2 197611    0 Jan 15 11:37 archives/
+-rwxr-xr-x 1 adsi2 197611  129 Jan 11 15:32 arithmetic.sh*
+-rwxr-xr-x 1 adsi2 197611  577 Jan 11 14:55 array.sh*
+-rwxr-xr-x 1 adsi2 197611 1862 Jan  7 15:21 bash.sh*
+-rw-r--r-- 1 adsi2 197611  554 Jan 11 14:40 basic.sh
+-rwxr-xr-x 1 adsi2 197611 1213 Jan 13 13:29 calculator.sh*
+-rwxr-xr-x 1 adsi2 197611  278 Jan 12 13:00 case.sh*
+drwxr-xr-x 1 adsi2 197611    0 Jan 15 12:45 files/
+-rwxr-xr-x 1 adsi2 197611  452 Jan 13 11:57 for.sh*
+-rwxr-xr-x 1 adsi2 197611  170 Jan 13 12:09 function.sh*
+-rwxr-xr-x 1 adsi2 197611  163 Jan 12 12:54 if_else.sh*
+-rwxr-xr-x 1 adsi2 197611  340 Jan 11 15:17 key_value.sh*
+-rw-r--r-- 1 adsi2 197611    0 Jan 16 13:45 la.txt
+-rwxr-xr-x 1 adsi2 197611  284 Jan 12 13:14 logical_operators.sh*
+-rw-r--r-- 1 adsi2 197611   24 Jan 16 13:43 name.txt
+-rw-r--r-- 1 adsi2 197611    0 Jan 15 12:44 note.txt
+-rw-r--r-- 1 adsi2 197611 1078 Jan 13 15:14 output.txt
+-rwxr-xr-x 1 adsi2 197611  438 Jan 13 15:14 site_status.sh*
+-rwxr-xr-x 1 adsi2 197611   72 Jan 11 15:22 user_interaction.sh*

@@ -13,7 +13,6 @@ echo "Press B for Subs"
 echo "Press c For mul"
 echo "Press D for Div"
 
-
 function addition {
     local num1=$1
     local num2=$2
@@ -61,6 +60,10 @@ case $char in
     *)
         echo "Please enter a valid input"
 esac
+
+
+
+
 
 
 
